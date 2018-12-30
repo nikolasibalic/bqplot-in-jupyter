@@ -3,4 +3,4 @@ jupyter nbextension enable --py widgetsnbextension
 jupyter labextension install bqplot
 
 # Notebooks w/ extensions that auto-run code must be "trusted" to work the first time, e.g.
-jupyter trust CSA-test.ipynb
+# jupyter trust CSA-test.ipynb
