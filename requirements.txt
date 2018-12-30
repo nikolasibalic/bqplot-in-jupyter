@@ -1,0 +1,9 @@
+numpy
+matplotlib
+ipywidgets
+jupyter_contrib_nbextensions
+traitlets
+traittypes
+pandas
+bqplot
+jupyter_drawing_pad
